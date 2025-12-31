@@ -755,7 +755,7 @@ Support Resources
 
 Community & Social
 
-· Twitter: @ScalableOversight
+· Twitter: @DafyddNapX
 · Discord: Join our community
 · Blog: Latest updates and research
 
