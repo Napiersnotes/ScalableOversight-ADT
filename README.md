@@ -742,9 +742,6 @@ Project Maintainer
 Dafydd Napier
 
 · GitHub: @Napiersnotes
-· Email: [Your professional email]
-· LinkedIn: [Your LinkedIn profile]
-· Website: [Your personal website]
 
 Support Resources
 
@@ -756,8 +753,6 @@ Support Resources
 Community & Social
 
 · Twitter: @DafyddNapX
-· Discord: Join our community
-· Blog: Latest updates and research
 
 ---
 
