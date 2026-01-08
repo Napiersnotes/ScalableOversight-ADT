@@ -1,5 +1,9 @@
 🎯 Scalable Oversight ADT (Advanced Decision Trees)
 
+![CI Status](https://github.com/Napiersnotes/ScalableOversight-/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
+
 Advanced Framework for Scalable AI Governance & Decision Systems |
 
 ![CI Status](https://github.com/Napiersnotes/ScalableOversight-/actions/workflows/ci.yml/badge.svg)
