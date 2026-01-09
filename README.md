@@ -1,9 +1,9 @@
 # Scalable Oversight ADT  
 (Advanced Decision Trees)  
 
-![CI Status](https://img.shields.io/badge/CI-Passing-brightgreen.svg)
+![CI](https://github.com/Napiersnotes/ScalableOversight-/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)
 
 ---
 
